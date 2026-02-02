@@ -6,7 +6,6 @@ The site highlights my skills, experience, and selected projects through a clean
 
 Built from scratch using vanilla HTML, CSS, and JavaScript.
 
----
 
 ## ✨ Features
 
@@ -19,7 +18,6 @@ Built from scratch using vanilla HTML, CSS, and JavaScript.
 - Fixed header with scroll behavior
 - Hero section with call-to-action buttons
 
----
 
 ## 🛠 Technologies
 
@@ -29,7 +27,6 @@ Built from scratch using vanilla HTML, CSS, and JavaScript.
 - Remix Icons  
 - Google Fonts (Poppins)
 
----
 
 ## 🌱 What I Learned
 
@@ -46,7 +43,6 @@ While building this project, I improved my understanding of:
 
 It also helped reinforce how design and development connect — especially when translating visual ideas into real interfaces.
 
----
 
 ## 📍 The Process
 
